@@ -1,0 +1,9 @@
+*{
+  list-style: none;
+}
+body{
+  background-color: lightgray;
+}
+.form{
+  margin-top: 30px;
+}

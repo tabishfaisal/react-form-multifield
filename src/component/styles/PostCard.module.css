@@ -1,0 +1,11 @@
+.col{
+    width: 45%;
+}
+.img{
+    width: 100%;
+    object-fit: contain;
+}
+.card{
+    padding: 10px;
+    background-color: white;
+}
